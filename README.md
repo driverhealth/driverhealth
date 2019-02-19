@@ -1,10 +1,7 @@
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+# 건강 뉴스
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
 
 ## Welcome to GitHub Pages
 
