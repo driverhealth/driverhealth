@@ -7,3 +7,5 @@ github:
   is_user_page: false
 disqus:
   shortname: driverhealth
+minima:
+  date_format: %Y. %m. %d
