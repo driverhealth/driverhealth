@@ -2,6 +2,7 @@
 layout: post
 title:  "안녕하세요. 건강지키미를 시작합니다!"
 author: 황지현
+comments: true
 ---
 
 # 안녕하세요
