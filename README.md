@@ -1,10 +1,10 @@
-# 건강지키미 소개
+## 건강지키미 소개
 
 ....
 
-# 건강 뉴스
+## 건강 뉴스
 {% for post in site.posts %}
-## [{{ post.title }}]({{ post.url }})
+### [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 ## Welcome to GitHub Pages
